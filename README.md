@@ -1,16 +1,38 @@
-### Hi there 👋
+![The San Juan Mountains are beautiful!](https://i.ibb.co/r0pkxMB/banner.jpg "San Juan Mountains")
 
 
-**sharif-77/sharif-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<main >
+<p>My Skills Set</p>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 30px;">
 
-Here are some ideas to get you started:
+   <p> 
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react&perline=3" />
+    </a>
+  </p>
+   <p>  
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=3" />
+    </a>
+  </p>
+   <p>  
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vercel,netlify,canva,figma&perline=3" />
+    </a>
+  </p>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+
+</main>
+
+- 🌱 I’m exploring Next Js
+- 💬 Talk to me about React
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharif-77&theme=nightowl)](https://git.io/streak-stats)
+
+
+
+
 
