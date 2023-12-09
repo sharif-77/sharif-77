@@ -25,9 +25,8 @@
 
 
 <main>
-   <p>Projects</p>
+   <span>Projects</span>
     <hr>
-    </br>
     <div>
     <h4>BloodLink</h4>
     <p>Fronted <a href="https://github.com/sharif-77/blood-link">https://github.com/sharif-77/blood-link</a></p>
