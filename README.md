@@ -1,5 +1,6 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/r0pkxMB/banner.jpg "San Juan Mountains")
 
+### A passionate Front-end developer from 🇧🇩
 
 <main >
 <span>💻 Technologies that I know</span>
@@ -49,6 +50,9 @@
     <p>Back-end <a href="https://github.com/sharif-77/gadget-galaxy-server">https://github.com/sharif-77/gadget-galaxy-server</a></p>
     <p>Live Link <a href="https://gadget-galaxy.surge.sh">https://gadget-galaxy.surge.sh</a></p>
     </div>
-
-
 </main>
+
+## Social Links
+- [Twitter](https://twitter.com/yourtwitter)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [GitHub](https://github.com/yourgithub)
