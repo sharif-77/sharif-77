@@ -1,6 +1,6 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/r0pkxMB/banner.jpg "San Juan Mountains")
 
-### A passionate Front-end developer from 🇧🇩
+### A passionate Front-end web application developer from 🇧🇩
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
