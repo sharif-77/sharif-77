@@ -52,7 +52,4 @@
     </div>
 </main>
 
-## Social Links
-- [Twitter](https://twitter.com/yourtwitter)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [GitHub](https://github.com/yourgithub)
+
